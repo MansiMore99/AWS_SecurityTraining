@@ -19,5 +19,7 @@
 - [Attaching Policy To The Users](#attachingpolicytotheusers)
 - [Launch Instance Using Amazon EC2](#launchinstanceusingamazonEC2)
 
+##### 📝 Overview of AWS Identity and Access Management (IAM)_Exam
+
 ##### 1️⃣ Week 1 : Data Collection and Wrangling
 
