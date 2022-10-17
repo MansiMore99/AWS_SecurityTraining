@@ -1,0 +1,37 @@
+
+2.The information within an IAM policy is described through a series of ______.
+Ans: ##### d.Elements
+
+3.___________________ allows you to delegate access to resources across different AWS accounts that you own without needing to create IAM users in each account.
+Ans: ##### d. IAM Roles
+
+4.There are a number of ways to create a customer managed policy, except which of the following choices?
+Ans: ##### d. Write a policy from scracth
+
+5.If a secret access key is deleted in IAM, can it be retrieved?
+Ans: ##### d. Yes, it can be retrieved but only once
+
+6. Which statement about IAM roles is false?
+A
+Resources can also have roles assigned, such as EC2 instances
+B
+There are four different role types 
+C
+A user must be given access to be able to assume a role
+D
+Assuming a role grants a user permanent credentials
+
+Ans: 
+
+
+7.Which statement is true about Inline Policies?
+A
+An inline policy is shared between all groups within your AWS account.
+B
+An inline policy cannot be used by multiple identities.
+C
+An inline policy can only be created by using the AWS CLI.
+D
+An inline policy can only contain read-only permissions.
+
+Ans: 
