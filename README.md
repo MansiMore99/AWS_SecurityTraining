@@ -1,6 +1,6 @@
-#### AWS_SecurityTriaining
+#### AWS_SecurityTraining
 
-#### AWS Security-Specialty training
+#### AWS Security-Speciality training
 
 ##### 📝 Introduction to IAM
 
