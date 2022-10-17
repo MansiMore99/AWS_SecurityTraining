@@ -2,10 +2,12 @@
 
 ##### AWS Security-Specialty training
 
+##### 📝 Training Library
 
-###### Training Library
+- [Logging in to the Amazon Web Services Console](#loggingintotheamazonwebservicesconsole)
+- [Creating an IAM User Group](#creatinganiamusergroup)
+- [Creating an IAM User](#creatinganiamuser)
+- [Logging in using the new IAM credentials](#logginginusingthenewiamcredentials)
 
-1) Logging in to the Amazon Web Services Console
-2) Creating an IAM User Group
-3) Creating an IAM User
-4) Logging in using the new IAM credentials
+##### 1️⃣ Week 1 : Data Collection and Wrangling
+
