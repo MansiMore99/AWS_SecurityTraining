@@ -1,15 +1,15 @@
 
 2.The information within an IAM policy is described through a series of ______.
-Ans: ##### d.Elements
+Ans: d.Elements
 
 3.___________________ allows you to delegate access to resources across different AWS accounts that you own without needing to create IAM users in each account.
-Ans: ##### d. IAM Roles
+Ans: d. IAM Roles
 
 4.There are a number of ways to create a customer managed policy, except which of the following choices?
-Ans: ##### d. Write a policy from scracth
+Ans: d. Write a policy from scracth
 
 5.If a secret access key is deleted in IAM, can it be retrieved?
-Ans: ##### d. Yes, it can be retrieved but only once
+Ans: d. Yes, it can be retrieved but only once
 
 6. Which statement about IAM roles is false?
 A
@@ -35,3 +35,51 @@ D
 An inline policy can only contain read-only permissions.
 
 Ans: 
+
+8. What additional method of Access Control can be assigned to an AWS user that utilizes a random six-digit number that is only available for a very short time before the number changes?
+Ans: a.Multi-Factor Authetication
+
+9. What is a benefit of using identity federation?
+Ans: 
+
+10._______ are objects created within IAM which have policy permissions associated to them. While they can be associated with users as groups are, they can also be assigned to instances at the time of launch.
+Ans: d.IAM Roles
+
+11. An IAM administrator has created ten IAM users, and wants them to have IAM access through both the AWS CLI and the AWS Management Console. 
+
+Which steps below will provide them with access to both the AWS CLI and Management Console? (Choose 2 answers)
+Ans:
+
+b.
+Create the access key and secret access key for each user
+d.
+Provide each user with the IAM login and password 
+
+12. What does the following policy for Amazon EC2 do?
+
+ {
+   "Statement":[{
+     "Effect":"Allow",
+     "Action":"ec2:Describe*",
+     "Resource":"*"
+   }]
+ } 
+
+Ans:
+a.
+Allow users to use actions that start with "Describe" over all the EC2 resources.
+
+13.In IAM, a(n) _____ is a specific identity with permission policies that determine what the single identity can and cannot do in AWS.
+Ans: d. IAM Role
+
+14.By default, a brand new IAM user created using the AWS CLI or AWS API  _____.
+Ans: c.has no credentials of any kind
+
+15. The ______ element of the IAM policy describes whether the specific API calls for a specific service will be allowed or denied.
+Ans: d. Action
+
+16.An IAM group is a:
+Ans: d. collection of IAM users.
+
+
+
