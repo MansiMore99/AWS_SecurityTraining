@@ -1,6 +1,6 @@
 ## AWS_SecurityTriaining
 
-##### AWS Security-Specialty training
+### AWS Security-Specialty training
 
 ##### 📝 Training Library
 
