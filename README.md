@@ -6,7 +6,7 @@
 ##### LAB 1️⃣: IAM
 ##### 📝 Introduction to IAM
 
-- (#loggingintotheamazonwebservicesconsole)
+- [Logging in to the Amazon Web Services Console](#loggingintotheamazonwebservicesconsole)
 - [Creating an IAM User Group](#creatinganiamusergroup)
 - [Creating an IAM User](#creatinganiamuser)
 - [Logging in using the new IAM credentials](#logginginusingthenewiamcredentials)
