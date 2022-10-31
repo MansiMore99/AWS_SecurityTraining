@@ -26,9 +26,21 @@
 - [Amazon EC2 Instance Isolation Challenge](#amazonec2instance)
 
 
-##### LAB 3️⃣:
-
 ##### 📝 Overview of AWS Identity and Access Management (IAM)_Exam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
