@@ -3,10 +3,10 @@
 #### AWS Security-Speciality training
 
 
-##### LAB 1️⃣ LAB 1 : IAM
+##### LAB 1️⃣: IAM
 ##### 📝 Introduction to IAM
 
-- [Logging in to the Amazon Web Services Console](#loggingintotheamazonwebservicesconsole)
+- [Logging in to the Amazon Web Services Console]
 - [Creating an IAM User Group](#creatinganiamusergroup)
 - [Creating an IAM User](#creatinganiamuser)
 - [Logging in using the new IAM credentials](#logginginusingthenewiamcredentials)
@@ -21,12 +21,12 @@
 - [Attaching Policy To The Users](#attachingpolicytotheusers)
 - [Launch Instance Using Amazon EC2](#launchinstanceusingamazonEC2)
 
-##### 2️⃣ LAB 2 : Amazon EC2 Instance
+##### LAB 2️⃣: Amazon EC2 Instance
 
 - [Amazon EC2 Instance Isolation Challenge](#amazonec2instance)
 
 
-##### 3️⃣ Week 3 :
+##### LAB 3️⃣:
 
 ##### 📝 Overview of AWS Identity and Access Management (IAM)_Exam
 
