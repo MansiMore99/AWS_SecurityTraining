@@ -2,6 +2,8 @@
 
 #### AWS Security-Speciality training
 
+
+##### 1️⃣ LAB 1 : IAM
 ##### 📝 Introduction to IAM
 
 - [Logging in to the Amazon Web Services Console](#loggingintotheamazonwebservicesconsole)
@@ -21,5 +23,4 @@
 
 ##### 📝 Overview of AWS Identity and Access Management (IAM)_Exam
 
-##### 1️⃣ Week 1 : Data Collection and Wrangling
 
