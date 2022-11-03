@@ -18,13 +18,15 @@
 - Create IAM users
 - Use IAM credentials to log in as created users
 
-##### LAB 2️⃣: Advanced Roles & Groups Management Using IAM
+##### 📝 Advanced Roles & Groups Management Using IAM
 
 Upon completion of this lab you will be able to:
 - Create IAM groups
 - Create IAM users
 - Work with IAM policies
 - Work with IAM roles and instance profiles
+
+##### LAB 2️⃣: Amazon EC2 Instance Isolation Challenge
 
 ##### LAB 3️⃣:Monitoring AWS CloudTrail Events with Amazon CloudWatch
 
