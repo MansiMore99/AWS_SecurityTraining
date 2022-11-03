@@ -6,8 +6,8 @@
 ##### LAB 1️⃣: IAM
 ##### 📝 Introduction to IAM
 
-->During this lab experience, you will learn how to create IAM users and groups with specific policies.
-->Upon completion of this lab you will be able to:
+- During this lab experience, you will learn how to create IAM users and groups with specific policies.
+- Upon completion of this lab you will be able to:
 
 -Create IAM groups
 -Create IAM users
