@@ -14,12 +14,11 @@
 
 ##### LAB 2️⃣: Advanced Roles & Groups Management Using IAM
 
-- In this lab, you will learn the recommended AWS security best practices.
-- Upon completion of this lab you will be able to:
--Create IAM groups
--Create IAM users
--Work with IAM policies
--Work with IAM roles and instance profiles
+Upon completion of this lab you will be able to:
+- Create IAM groups
+- Create IAM users
+- Work with IAM policies
+- Work with IAM roles and instance profiles
 
 ##### LAB 3️⃣:Monitoring AWS CloudTrail Events with Amazon CloudWatch
 
