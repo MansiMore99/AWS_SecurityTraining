@@ -9,14 +9,14 @@
 - During this lab experience, you will learn how to create IAM users and groups with specific policies.
 - Upon completion of this lab you will be able to:
 
--Create IAM groups
--Create IAM users
--Use IAM credentials to log in as created users
+1> Create IAM groups
+2> Create IAM users
+3> Use IAM credentials to log in as created users
 
 ##### LAB 2️⃣: Advanced Roles & Groups Management Using IAM
 
-->In this lab, you will learn the recommended AWS security best practices.
-->Upon completion of this lab you will be able to:
+- In this lab, you will learn the recommended AWS security best practices.
+- Upon completion of this lab you will be able to:
 -Create IAM groups
 -Create IAM users
 -Work with IAM policies
@@ -26,12 +26,12 @@
 
 Upon completion of this Lab, you will be able to:
 
--Turn on and configure CloudTrail to capture key events and deliver log files to a specific S3 bucket
--Navigate the S3 bucket structure where CloudTrail logs are stored (as compressed JSON files)
--Generate traffic in order to verify CloudTrail is working
--Use the CloudTrail console to learn more about the events CloudTrail captures
--Configure CloudTrail to send events to CloudWatch
--Create a metric filter and alarm so that you receive a notification when specific events occur in AWS
+- Turn on and configure CloudTrail to capture key events and deliver log files to a specific S3 bucket
+- Navigate the S3 bucket structure where CloudTrail logs are stored (as compressed JSON files)
+- Generate traffic in order to verify CloudTrail is working
+- Use the CloudTrail console to learn more about the events CloudTrail captures
+- Configure CloudTrail to send events to CloudWatch
+- Create a metric filter and alarm so that you receive a notification when specific events occur in AWS
 
 ##### LAB 4️⃣: Compliance Check Using AWS Config Rules (Managed & Custom)
 
