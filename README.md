@@ -6,31 +6,42 @@
 ##### LAB 1️⃣: IAM
 ##### 📝 Introduction to IAM
 
-- [Logging in to the Amazon Web Services Console](#loggingintotheamazonwebservicesconsole)
-- [Creating an IAM User Group](#creatinganiamusergroup)
-- [Creating an IAM User](#creatinganiamuser)
-- [Logging in using the new IAM credentials](#logginginusingthenewiamcredentials)
+->During this lab experience, you will learn how to create IAM users and groups with specific policies.
+->Upon completion of this lab you will be able to:
 
-##### 📝 Advanced Roles & Groups Management Using IAM
+-Create IAM groups
+-Create IAM users
+-Use IAM credentials to log in as created users
 
-- [Logging in to the Amazon Web Services Console](#loggingintotheamazonwebservicesconsole)
-- [Creating an IAM User Group](#creatinganiamusergroup)
-- [Creating an IAM User](#creatinganiamuser)
-- [IAM Role](#iamrole)
-- [Create policies By Policy Generator](createpoliciesbypPolicygenerator)
-- [Attaching Policy To The Users](#attachingpolicytotheusers)
-- [Launch Instance Using Amazon EC2](#launchinstanceusingamazonEC2)
+##### LAB 2️⃣: Advanced Roles & Groups Management Using IAM
 
-##### LAB 2️⃣: Amazon EC2 Instance
+->In this lab, you will learn the recommended AWS security best practices.
+->Upon completion of this lab you will be able to:
+-Create IAM groups
+-Create IAM users
+-Work with IAM policies
+-Work with IAM roles and instance profiles
 
-- [Amazon EC2 Instance Isolation Challenge](#amazonec2instance)
+##### LAB 3️⃣:Monitoring AWS CloudTrail Events with Amazon CloudWatch
 
+Upon completion of this Lab, you will be able to:
 
-##### 📝 Overview of AWS Identity and Access Management (IAM)_Exam
+-Turn on and configure CloudTrail to capture key events and deliver log files to a specific S3 bucket
+-Navigate the S3 bucket structure where CloudTrail logs are stored (as compressed JSON files)
+-Generate traffic in order to verify CloudTrail is working
+-Use the CloudTrail console to learn more about the events CloudTrail captures
+-Configure CloudTrail to send events to CloudWatch
+-Create a metric filter and alarm so that you receive a notification when specific events occur in AWS
 
-##### LAB 6: Detecting EC2 Threats with Amazon GuardDuty
+##### LAB 4️⃣: Compliance Check Using AWS Config Rules (Managed & Custom)
 
-Amazon GuardDuty continuously monitors and identifies threats by analyzing several types of activity in your AWS account and any invited member accounts that you link to. GuardDuty can notify you of a wide variety of threats including unauthorized access, trojans, communication with Tor anonymizing, or cryptocurrency networks.
+ In this lab, you will get hands-on experience with managed and custom AWS Config rules.
+
+##### LAB 5️⃣: Follow Best Practices with AWS Trusted Advisor
+
+In this Lab, you will use some of the security and performance checks to implement best practices in AWS.
+
+##### LAB 6️⃣: Detecting EC2 Threats with Amazon GuardDuty
 
 In this Lab, you will learn how to use Amazon GuardDuty to automatically uncover malicious EC2 activity, and configure threat lists to improve the security of an AWS Lab environment.
 
