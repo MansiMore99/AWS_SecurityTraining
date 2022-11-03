@@ -2,7 +2,10 @@
 
 #### AWS Security-Speciality training (Cloud Academy)
 
-💡 About this Course -> https://cloudacademy.com/learning-paths/security-specialty-certification-preparation-for-aws-201/
+💡 About this Course -> https://cloudacademy.com/training-plan/cloud-security-engineer-for-aws-starter-plan-08-15-2018-04-52-37-1/
+
+💡 About Security - Specialty Certification Preparation for AWS  -> https://cloudacademy.com/learning-paths/security-specialty-certification-preparation-for-aws-201/
+
 
 
 
