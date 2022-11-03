@@ -1,6 +1,9 @@
 #### AWS_SecurityTraining
 
-#### AWS Security-Speciality training
+#### AWS Security-Speciality training (Cloud Academy)
+
+💡 About this Course -> https://cloudacademy.com/learning-paths/security-specialty-certification-preparation-for-aws-201/
+
 
 
 ##### LAB 1️⃣: IAM
