@@ -25,6 +25,8 @@ Upon completion of this lab you will be able to:
 - Create IAM users
 - Work with IAM policies
 - Work with IAM roles and instance profiles
+- Policy Generator and policy to user
+- Amazon_VM
 
 ##### LAB 2️⃣: Amazon EC2 Instance Isolation Challenge
 
