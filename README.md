@@ -6,12 +6,11 @@
 ##### LAB 1️⃣: IAM
 ##### 📝 Introduction to IAM
 
-- During this lab experience, you will learn how to create IAM users and groups with specific policies.
-- Upon completion of this lab you will be able to:
+ Upon completion of this lab you will be able to:
 
-1> Create IAM groups
-2> Create IAM users
-3> Use IAM credentials to log in as created users
+- Create IAM groups
+- Create IAM users
+- Use IAM credentials to log in as created users
 
 ##### LAB 2️⃣: Advanced Roles & Groups Management Using IAM
 
