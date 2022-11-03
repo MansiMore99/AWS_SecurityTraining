@@ -28,6 +28,14 @@
 
 ##### 📝 Overview of AWS Identity and Access Management (IAM)_Exam
 
+##### LAB 6: Detecting EC2 Threats with Amazon GuardDuty
+
+Amazon GuardDuty continuously monitors and identifies threats by analyzing several types of activity in your AWS account and any invited member accounts that you link to. GuardDuty can notify you of a wide variety of threats including unauthorized access, trojans, communication with Tor anonymizing, or cryptocurrency networks.
+
+In this Lab, you will learn how to use Amazon GuardDuty to automatically uncover malicious EC2 activity, and configure threat lists to improve the security of an AWS Lab environment.
+
+
+
 
 
 
