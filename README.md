@@ -57,6 +57,11 @@ In this Lab, you will use some of the security and performance checks to impleme
 
 In this Lab, you will learn how to use Amazon GuardDuty to automatically uncover malicious EC2 activity, and configure threat lists to improve the security of an AWS Lab environment.
 
+##### LAB 7️⃣: Monitor Amazon CloudWatch Security Logs for failed SSH attempts
+
+This lab focuses on failed SSH attempts, there is a broader application that should be recognized, including how CloudWatch can be utilized in many different ways for many different logs or infrastructure metrics. 
+
+
 
 
 
