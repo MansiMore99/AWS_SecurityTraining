@@ -8,6 +8,8 @@
 
 🎉 Labs completed by Mansi More
 
+AWS Security-Speciality certification was ranked # 6 on https://www.skillsoft.com/blog/15-top-paying-it-certifications-of-2022#gref
+
 The AWS Certified Security - Specialty certification allows you to demonstrate and validate your AWS knowledge across security topics such as data protection and encryption, infrastructure security, incident response, identity, and access management, monitoring, and logging. With a blend of instructional courses, hands-on labs, quizzes, and a preparation exam, this Learning Path helps you prepare and master the AWS Certified Security - Specialty exam.  
 
 
